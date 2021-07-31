@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karina-V
+- 👋 Hi, I’m @karvaroz
 - 👀 I’m interested in software development specially frontend development and digital marketing
 - 🌱 I’m currently learning web development
 - 💞️ I'm looking to collaborate on a web development project full time under an internship or employment relationship
